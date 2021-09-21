@@ -1,0 +1,172 @@
+body{
+    background:url("NEW Folder/photo1.jfif");
+    background-repeat: no-repeat;
+    background-size: 1380px 600px;
+    background-attachment:scroll;
+    background-color:rgba(14, 70, 56, 0.815);
+
+}
+
+/* # use for id  */
+#ptag{
+    color:darkred;
+    
+
+}
+
+h3{
+    text-align: center;
+    font-size: 35px;
+    border: 4px maroon ;
+    border-style:solid;
+    padding: 15px;
+    text-shadow:2px 2px rgb(228, 210, 210);
+    background-color: rgba(0, 139, 139, 0.411);
+}
+h2{
+    text-align: center;
+    margin: 40px;
+    font-family: 'Lobster', cursive;
+    color:green;
+    outline: 5px;
+    background-color: rgba(95, 158, 160, 0.404);
+    padding: 20px;
+    text-shadow: 4px 3px rgba(182, 202, 69, 0.705);
+}
+
+form{
+    text-align:right;
+    margin-right: 50px;
+}
+input{
+    padding: 2px;
+}
+label{
+font-weight: bold;
+}
+section{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+}
+.box{
+    max-width: 600px;
+    border: 10px solid rgb(228, 134, 11);
+    background-color:rgba(46, 131, 119, 0.445);
+    padding: 15px;
+    margin-left: 400px;
+    text-align: justify;
+}
+#innerlink{
+    display: block;
+    width: 150px;
+    margin: auto;
+    font-size: 15px;
+    padding: 15px;
+    background-color: rgb(73, 219, 245);
+    font-family: 'Lobster', cursive;
+    border-radius: 10px 10px;
+}
+#innerlink:hover{
+    
+    background-color: rgb(7, 160, 58);
+    font-family: 'Lobster', cursive;
+    color: rgb(240, 236, 237);
+}
+.mytable{
+    background-color:slategrey;
+    padding: 100px;
+    margin-top: 20px;
+    border:4px black;
+    border-style:double;
+}
+.tableContainner{
+    width:50%;
+    background-color: burlywood;
+    margin: auto;
+    padding: 40px;
+    margin-bottom: 10%;
+
+}
+.tableContainner table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 45px;
+
+    
+}
+.tableContainner table th{
+    border: 2px solid black;
+    background-color: teal;
+    color: white;
+    padding: 15px;
+    
+}
+
+
+.tableContainner table td{
+    border: 2px solid black;
+    background-color: rgb(241, 245, 245);
+    color: rgb(0, 0, 0);
+    padding: 12px;
+}
+
+
+.header1{
+    border:2px solid red;
+    font-style: normal;
+    margin-top: 5px;
+    padding: 10px;
+}
+.left{
+    border:2px solid red;
+    width: 30%;
+    float: left;
+    background-color: white;
+    padding: 10px;
+
+
+}
+.main{
+    border:2px solid red;
+    width: 70%;
+    float: right;
+    padding: 10px;
+
+
+
+}
+.contain{
+    background-color: white;
+}
+
+
+
+.video{
+    margin-left: 72%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.jumbotron{
+    margin-top: 10px;
+}
+#progress1{
+    margin-bottom: 20px;
+background-color: darkred;
+}
+.carousel-item{
+    padding: 7% 15%;
+    border: 2px solid rgba(10, 9, 10, 0.938);
+    font-style: italic;
+    
+}
+.img-feedback{
+    margin-left: 30%;
+    width: 320px;
+    height: 260px;
+    box-shadow:5px 5px 15px #329285;
+
+}
+.carousel-inner{
+    background-color: rgba(2, 17, 4, 0.808);
+}
